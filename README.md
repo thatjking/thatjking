@@ -1,14 +1,7 @@
-### Hi there! My anme is Jackson.
+### Hi there! My name is Jackson.
 
-# I am currently a student at Harvey Mudd College, working towards my Bachelors in Computer Science.
+## I am currently a student at Harvey Mudd College, working towards my Bachelors in Computer Science.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a platform that will help connect consumers to black-owned businesses and products.
+- 🌱 I’m currently learning how to use industry standard tooling.
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: he/him
-- ⚡ fun fact:
